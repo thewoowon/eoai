@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(yarn install:*)",
+      "Bash(yarn next:*)",
+      "Bash(yarn node:*)",
+      "Bash(unzip -l /Users/aepeul/.yarn/berry/cache/next-npm-16.2.1-cf31432b67-10c0.zip)",
+      "Bash(grep -v \"/$\")",
+      "Read(//Users/aepeul/dev/web/eoai/**)",
+      "Bash(unzip -p /Users/aepeul/.yarn/berry/cache/next-npm-16.2.1-cf31432b67-10c0.zip \"node_modules/next/dist/docs/01-app/01-getting-started/18-upgrading.md\")",
+      "Bash(unzip -p /Users/aepeul/.yarn/berry/cache/next-npm-16.2.1-cf31432b67-10c0.zip \"node_modules/next/dist/docs/01-app/01-getting-started/03-layouts-and-pages.md\")",
+      "Bash(unzip -p /Users/aepeul/.yarn/berry/cache/next-npm-16.2.1-cf31432b67-10c0.zip \"node_modules/next/dist/docs/01-app/01-getting-started/05-server-and-client-components.md\")",
+      "Bash(unzip -p /Users/aepeul/.yarn/berry/cache/next-npm-16.2.1-cf31432b67-10c0.zip \"node_modules/next/dist/docs/01-app/01-getting-started/11-css.md\")",
+      "Bash(yarn build:*)",
+      "Bash(unzip -p /Users/aepeul/.yarn/berry/cache/next-npm-16.2.1-cf31432b67-10c0.zip node_modules/next/dist/docs/01-app/04-api-reference/03-config/01-next-config-js/turbopack.md)",
+      "Bash(unzip -p /Users/aepeul/.yarn/berry/cache/next-npm-16.2.1-cf31432b67-10c0.zip \"node_modules/next/dist/docs/01-app/03-api-reference/05-config/01-next-config-js/adapterPath.md\")",
+      "Bash(unzip -p /Users/aepeul/.yarn/berry/cache/next-npm-16.2.1-cf31432b67-10c0.zip \"node_modules/next/dist/docs/01-app/01-getting-started/17-deploying.md\")",
+      "Bash(unzip -p /Users/aepeul/.yarn/berry/cache/next-npm-16.2.1-cf31432b67-10c0.zip \"node_modules/next/dist/docs/01-app/03-api-reference/06-cli/index.md\")",
+      "Bash(unzip -p /Users/aepeul/.yarn/berry/cache/next-npm-16.2.1-cf31432b67-10c0.zip \"node_modules/next/dist/docs/01-app/03-api-reference/06-cli/next.md\")"
+    ]
+  }
+}
